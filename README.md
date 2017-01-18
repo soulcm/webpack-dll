@@ -1,5 +1,7 @@
 # webpack优化之dll
 
+可以直接拿下来进行项目开发
+
 知识点:
 
 * koa2
@@ -12,9 +14,10 @@
 yarn
 
 //development
-npm run build:dll-dev
+npm run build:dll
 npm run dev
 
 //build
+npm run build:dll
 npm run build
 ```
